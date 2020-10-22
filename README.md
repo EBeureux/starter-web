@@ -8,6 +8,10 @@ Blah
 
 ## Purpose
 
+More blah
+
 ## Deployment
+
+Another blah
 
 ## How To Contribute
